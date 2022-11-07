@@ -1,1 +1,1 @@
-# this project is 0x1B. C - Sorting algorithms & Big O
+# this project is team project sortin and algorith
